@@ -2,7 +2,7 @@
 
 ## Software
 
-- [EuroScope - Controlling Software](https://www.euroscope.hu/)
+- [EuroScope - Controlling Software](https://www.euroscope.hu)
 - [TrackAudio - Recommended Audio Client](https://github.com/pierr3/TrackAudio/releases)
 - [Audio for VATSIM - Alternative Audio Client](https://audio.vatsim.net/downloads/standalone)
 - [vATIS - ATIS Software](http://vatis.clowd.io/) 
