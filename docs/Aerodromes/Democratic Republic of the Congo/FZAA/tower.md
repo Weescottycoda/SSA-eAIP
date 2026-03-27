@@ -20,7 +20,7 @@ The responsibility of Tower at N'Djili falls to the dedicated Tower ATS unit, N'
 
 
 !!! info "VRP Map"
-    There are no Visual Reference Points at FZAA
+    There are no Visual Reference Points at FZAA.
 
 ### VFR Departures
 
